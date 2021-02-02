@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: db348e209625e3c41bf334fc8a21ccd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5224676035924354761
+    second: Dryad_stay2_0
+  - first:
+      213: -2923432486625213463
+    second: Dryad_stay2_1
+  - first:
+      213: 8745678244587557630
+    second: Dryad_stay2_2
+  - first:
+      213: 5799842562360020176
+    second: Dryad_stay2_3
+  - first:
+      213: 4817654624119478405
+    second: Dryad_stay2_4
+  - first:
+      213: 1499673503738182078
+    second: Dryad_stay2_5
+  - first:
+      213: 8495248585562762234
+    second: Dryad_stay2_6
+  - first:
+      213: 3556195596083352241
+    second: Dryad_stay2_7
+  - first:
+      213: 1205297214620076668
+    second: Dryad_stay2_8
+  - first:
+      213: -347492537349293303
+    second: Dryad_stay2_9
+  - first:
+      213: -3940245558154198382
+    second: Dryad_stay2_10
+  - first:
+      213: 3887342897982197808
+    second: Dryad_stay2_11
+  - first:
+      213: 9140695981487705939
+    second: Dryad_stay2_12
+  - first:
+      213: 6608222884340107379
+    second: Dryad_stay2_13
+  - first:
+      213: -3255166811789612143
+    second: Dryad_stay2_14
+  - first:
+      213: 5449140254225690438
+    second: Dryad_stay2_15
+  - first:
+      213: -6387652272757372177
+    second: Dryad_stay2_16
+  - first:
+      213: 542178741200396209
+    second: Dryad_stay2_17
+  - first:
+      213: -4983615882701798767
+    second: Dryad_stay2_18
+  - first:
+      213: 4726696820619589064
+    second: Dryad_stay2_19
+  - first:
+      213: 8748711730886719024
+    second: Dryad_stay2_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 155
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dryad_stay2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78e986301b5c347a9726161ef03dde
+      internalID: 5224676035924354761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f245ced243f3a414696878da25403f41
+      internalID: -2923432486625213463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da857f8445e33a2448c0397846eaf1b5
+      internalID: 8745678244587557630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f14d03a0f96648ab5b71adc77e9fe
+      internalID: 5799842562360020176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd37d9b3ddb61e844802bc820abc8a71
+      internalID: 4817654624119478405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae315766d4c2a4485fc27eacb68653
+      internalID: 1499673503738182078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464f7042ff2f4c4c96ff360319d8415
+      internalID: 8495248585562762234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cc2f8c7480614d9dd6859512c8b42
+      internalID: 3556195596083352241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3578402072cbb43a70ee725278aaa7
+      internalID: 1205297214620076668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 449.3333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88262d0a30d8eec4daad9db1181c2845
+      internalID: -347492537349293303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75793fd84f319814c859a55bbc14c630
+      internalID: -3940245558154198382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1216fe2a6e0f24cb61c81b198d2a57
+      internalID: 3887342897982197808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22b68d4fd1b9c4a99a55fef9debde8
+      internalID: 9140695981487705939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b623ca9861d7143901871fdd38396d
+      internalID: 6608222884340107379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bb51c4ba1e09349a157a0ef6cbda02
+      internalID: -3255166811789612143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46995a4dee9f9bd4780fd4ca31be95da
+      internalID: 5449140254225690438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be173d83ddce2040aabe1bb5c382e70
+      internalID: -6387652272757372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cc81992ae78c4a882d5feb7d0bc30
+      internalID: 542178741200396209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005e2204a5c85f44b588f84a60e89a5
+      internalID: -4983615882701798767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 225.33333
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e321a2ddd6824988b731f6fbbaa08
+      internalID: 4726696820619589064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_stay2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 114.2
+        height: 224.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a0b0ef8fb177449dcba5ce030a9bd
+      internalID: 8748711730886719024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 720a915740ea8f64fa6ec25a12e8880d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

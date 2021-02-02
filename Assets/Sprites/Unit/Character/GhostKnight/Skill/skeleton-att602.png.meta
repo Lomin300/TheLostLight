@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: c9a355ab2f5f8734fad3fd5c0b5de11f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2340737876464391427
+    second: skeleton-att602_0
+  - first:
+      213: 5877391939294349832
+    second: skeleton-att602_1
+  - first:
+      213: 6217948291523923285
+    second: skeleton-att602_2
+  - first:
+      213: 2621314093114589302
+    second: skeleton-att602_3
+  - first:
+      213: 313162797379628977
+    second: skeleton-att602_4
+  - first:
+      213: 2948929435142773387
+    second: skeleton-att602_5
+  - first:
+      213: 8750044282546358054
+    second: skeleton-att602_6
+  - first:
+      213: 3935417717072814995
+    second: skeleton-att602_7
+  - first:
+      213: -8311612076129905414
+    second: skeleton-att602_8
+  - first:
+      213: 1662240374425724734
+    second: skeleton-att602_9
+  - first:
+      213: 35291354019536533
+    second: skeleton-att602_10
+  - first:
+      213: 3144095932244672489
+    second: skeleton-att602_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 135
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-att602_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e2d328a90f6264dab05d23526772ac
+      internalID: 2340737876464391427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 667.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3411651e440f3948bfea5b86d5a6d0d
+      internalID: 5877391939294349832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 667.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa87d5be45a6644b8c63149d2ab20d
+      internalID: 6217948291523923285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41689c46c9c4a4db34d7da06386ba8
+      internalID: 2621314093114589302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 445.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270e93587d2dcd4c9de8fc3eb632b84
+      internalID: 313162797379628977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 445.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37128f334b822ba40af25f068c0637ba
+      internalID: 2948929435142773387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8c08436fe7be4791951df3f947dee
+      internalID: 8750044282546358054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 223.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9910303d1505a44ae15b8c6c61ffff
+      internalID: 3935417717072814995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 223.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b219bc92bd04e46874a60ebb191df9
+      internalID: -8311612076129905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2874914aebdab40b9146db1ab212ed
+      internalID: 1662240374425724734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfda34ea0c6ce34eb75f1e900570dcb
+      internalID: 35291354019536533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-att602_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1.5
+        width: 317.66666
+        height: 222.5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ae2d4c06e3eee47adda4faa78a49b1
+      internalID: 3144095932244672489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13c0376e8dfc9e941ad6adb08cf55bea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

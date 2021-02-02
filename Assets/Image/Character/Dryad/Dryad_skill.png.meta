@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 7e9c91e8875bc4f47829466999576aab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5001583450189395707
+    second: Dryad_skill_0
+  - first:
+      213: 7036723178207449671
+    second: Dryad_skill_1
+  - first:
+      213: -330898268729646045
+    second: Dryad_skill_2
+  - first:
+      213: -9035357936169764629
+    second: Dryad_skill_3
+  - first:
+      213: -2856775078538790885
+    second: Dryad_skill_4
+  - first:
+      213: -5981004966957555849
+    second: Dryad_skill_5
+  - first:
+      213: -8506621272102637696
+    second: Dryad_skill_6
+  - first:
+      213: 5026688913527058389
+    second: Dryad_skill_7
+  - first:
+      213: 6386922566946120664
+    second: Dryad_skill_8
+  - first:
+      213: 5866608662521677056
+    second: Dryad_skill_9
+  - first:
+      213: -3191555325846114347
+    second: Dryad_skill_10
+  - first:
+      213: 8252560849988286361
+    second: Dryad_skill_11
+  - first:
+      213: -31815806318264277
+    second: Dryad_skill_12
+  - first:
+      213: 4313132854206328995
+    second: Dryad_skill_13
+  - first:
+      213: -448520318182866365
+    second: Dryad_skill_14
+  - first:
+      213: -8369583688824903124
+    second: Dryad_skill_15
+  - first:
+      213: -644157403010295233
+    second: Dryad_skill_16
+  - first:
+      213: -1508898559300789479
+    second: Dryad_skill_17
+  - first:
+      213: -4044398963293439215
+    second: Dryad_skill_18
+  - first:
+      213: 5655496033511975956
+    second: Dryad_skill_19
+  - first:
+      213: -5500404932355974004
+    second: Dryad_skill_20
+  - first:
+      213: -1730778481149325705
+    second: Dryad_skill_21
+  - first:
+      213: 7623736821377630915
+    second: Dryad_skill_22
+  - first:
+      213: 3694796204367555528
+    second: Dryad_skill_23
+  - first:
+      213: 4800461611812745119
+    second: Dryad_skill_24
+  - first:
+      213: 7961361866589320198
+    second: Dryad_skill_25
+  - first:
+      213: 5425380784488685042
+    second: Dryad_skill_26
+  - first:
+      213: -8304679443119889355
+    second: Dryad_skill_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dryad_skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f7d1a077819a4eb55aed2dbbbcdf9
+      internalID: -5001583450189395707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e4ce6405112a45af064ac3dbb83cb
+      internalID: 7036723178207449671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ceb03ddb8ff0f4fb1665d70c3dd683
+      internalID: -330898268729646045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad32f58e77fa24fa0b7a106ce33387
+      internalID: -9035357936169764629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda444fdc1a7a243aa8ff255e8059d8
+      internalID: -2856775078538790885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa81101df136a4c8a226efbfc35ce1
+      internalID: -5981004966957555849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 658.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3af2814f34494db22399b3f43d2c8
+      internalID: -8506621272102637696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3674cb93c8031d429832ba8af6ad400
+      internalID: 5026688913527058389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d4614ccf69ee4c807c43891a7a9c8
+      internalID: 6386922566946120664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 438
+        width: 152
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a6021925ca7c4790c92d646a46447
+      internalID: 5866608662521677056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b14489a223f24193a09e400780651
+      internalID: -3191555325846114347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112bfe5b09a0ba44083b89a1e12875e8
+      internalID: 8252560849988286361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_12
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6ce53bbad8d54293625493eba0e8e
+      internalID: -31815806318264277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 439.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27740c8f82bd62d46ac3c7cc75e05d36
+      internalID: 4313132854206328995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96985a6b55dcc14b87ba76c21a1e7f3
+      internalID: -448520318182866365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe36a6bf6a896e42aa862d8b436cf13
+      internalID: -8369583688824903124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029cf7259e46e44eb6989aef8da3d3e
+      internalID: -644157403010295233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d6379b70a5c641b977bf36c26e1c1
+      internalID: -1508898559300789479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb34a8bc5ac4c804ca14bfff1edb403d
+      internalID: -4044398963293439215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b6e832f817bb4a81c5e139e071a46
+      internalID: 5655496033511975956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 220.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de323a0c4d6e473428c20359f1355445
+      internalID: -5500404932355974004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2646eace66a5429d51caeba52540b
+      internalID: -1730778481149325705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e4b4e4c7994248bed2417dc782763
+      internalID: 7623736821377630915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a57901fc551e4baadaacda7136795
+      internalID: 3694796204367555528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6575587c7cd5c04e94513e513640b1d
+      internalID: 4800461611812745119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c34a0384ba2f46859e6e437928877
+      internalID: 7961361866589320198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda479f1aa21ba345bdab005bef6f79b
+      internalID: 5425380784488685042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_skill_27
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1.5
+        width: 152.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb984c71b9236449cdbb2af51f326b
+      internalID: -8304679443119889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 36ec055519d459646a4e1b7fdcc153aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

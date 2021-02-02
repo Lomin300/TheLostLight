@@ -1,0 +1,48 @@
+
+skeleton-W-z.png
+size: 1124,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-W-z_0
+  rotate: false
+  xy: 2, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+skeleton-W-z_1
+  rotate: false
+  xy: 189, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+skeleton-W-z_2
+  rotate: false
+  xy: 376, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+skeleton-W-z_3
+  rotate: false
+  xy: 563, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+skeleton-W-z_4
+  rotate: false
+  xy: 750, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+skeleton-W-z_5
+  rotate: false
+  xy: 937, 2
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1

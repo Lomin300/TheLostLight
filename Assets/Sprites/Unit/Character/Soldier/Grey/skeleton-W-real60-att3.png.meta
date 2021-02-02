@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: a38a6a08ce091ed46a0bc3e64b976aa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6116075242977323510
+    second: skeleton-W-real60-att3_0
+  - first:
+      213: 3366687518058472284
+    second: skeleton-W-real60-att3_1
+  - first:
+      213: 6078681420511874625
+    second: skeleton-W-real60-att3_2
+  - first:
+      213: 918280941590910205
+    second: skeleton-W-real60-att3_3
+  - first:
+      213: 7210540186734546412
+    second: skeleton-W-real60-att3_4
+  - first:
+      213: -1891922770601504719
+    second: skeleton-W-real60-att3_5
+  - first:
+      213: -8666515274993751661
+    second: skeleton-W-real60-att3_6
+  - first:
+      213: 1501282900809797077
+    second: skeleton-W-real60-att3_7
+  - first:
+      213: -8357132325501639316
+    second: skeleton-W-real60-att3_8
+  - first:
+      213: 3514845760680466653
+    second: skeleton-W-real60-att3_9
+  - first:
+      213: 6161226663877638268
+    second: skeleton-W-real60-att3_10
+  - first:
+      213: -3903789825175905710
+    second: skeleton-W-real60-att3_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b52dbfd4aa93a4f8b8669277fb7960
+      internalID: 6116075242977323510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9166e80c4ae13964cac09fe7d70749f0
+      internalID: 3366687518058472284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fc403a5d669f646b7d3cfb8d96bb57
+      internalID: 6078681420511874625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e0b2cdd937764fabac3206bb2382f
+      internalID: 918280941590910205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacdb10755866a646a19a1b7fb15f6fa
+      internalID: 7210540186734546412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53134b23800dbd447b00b1e6d0bbfeb5
+      internalID: -1891922770601504719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193251ad4ab2b6e4989b460ad6c77ef3
+      internalID: -8666515274993751661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6474b5f142b046981255a34a77385
+      internalID: 1501282900809797077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0368ce64e9279341a263f48f9b85de4
+      internalID: -8357132325501639316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bfd89c28692d4587517de10afe5c2
+      internalID: 3514845760680466653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85697c865423062489204f95194235c0
+      internalID: 6161226663877638268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-W-real60-att3_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 9
+      pivot: {x: 0.47, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6c47b5d25acf4ea9ba3846f157499
+      internalID: -3903789825175905710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13ab35e983b349c45b4bf1581c4f6971
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

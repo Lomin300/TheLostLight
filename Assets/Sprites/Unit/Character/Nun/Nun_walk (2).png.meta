@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 2a81270d6ddff144dbb254a3c6d7fe1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8276964675837191169
+    second: Nun_walk (2)_0
+  - first:
+      213: 2557561454443555276
+    second: Nun_walk (2)_1
+  - first:
+      213: 4060047191459566937
+    second: Nun_walk (2)_2
+  - first:
+      213: 6203540138483728757
+    second: Nun_walk (2)_3
+  - first:
+      213: -8674834904332224147
+    second: Nun_walk (2)_4
+  - first:
+      213: -6986452288888403052
+    second: Nun_walk (2)_5
+  - first:
+      213: -8657490821048595304
+    second: Nun_walk (2)_6
+  - first:
+      213: -3003880111201432029
+    second: Nun_walk (2)_7
+  - first:
+      213: -1081196210660481056
+    second: Nun_walk (2)_8
+  - first:
+      213: 8887225080176121607
+    second: Nun_walk (2)_9
+  - first:
+      213: -2499651782834093722
+    second: Nun_walk (2)_10
+  - first:
+      213: 3526332927500562553
+    second: Nun_walk (2)_11
+  - first:
+      213: -5864155488145662944
+    second: Nun_walk (2)_12
+  - first:
+      213: -5084142535425489305
+    second: Nun_walk (2)_13
+  - first:
+      213: 3680223125414567172
+    second: Nun_walk (2)_14
+  - first:
+      213: -852586393224523321
+    second: Nun_walk (2)_15
+  - first:
+      213: -1511733725910467045
+    second: Nun_walk (2)_16
+  - first:
+      213: 3759256654105663758
+    second: Nun_walk (2)_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nun_walk (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b82ed2156ec634ebe8378d255779b6
+      internalID: -8276964675837191169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b65c0aa6317604dbf09bcfd5145b83
+      internalID: 2557561454443555276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0cc5ca09e8704eb05c964519f4606
+      internalID: 4060047191459566937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf061ec33bd8f4d97070df81b97773
+      internalID: 6203540138483728757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cc2bdf4f41a534993e87e914c27175
+      internalID: -8674834904332224147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d65a01339074a4da2b22f612bcae40
+      internalID: -6986452288888403052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 441.3333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f099686448cea4ab7f5ef4a841d28d
+      internalID: -8657490821048595304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287796f27a778784b9928be79886b2b4
+      internalID: -3003880111201432029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a104730cb39a44a1bc4b4a620a2d3
+      internalID: -1081196210660481056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aedfceb56bf1b49a7de6b5694d629e
+      internalID: 8887225080176121607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5ff8091406bb4981b3497e1c5d814
+      internalID: -2499651782834093722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db82557352fc5f4098e0836be1fc56a
+      internalID: 3526332927500562553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_12
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02b5f40635f68449539af745e7b386
+      internalID: -5864155488145662944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_13
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 221.33333
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05dfa618e0543a4b829b7b9ffae400b
+      internalID: -5084142535425489305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77035f668024f74dba3abde835addc0
+      internalID: 3680223125414567172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1.3333282
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a22d4290d75e242a255f30d35f1e0b
+      internalID: -852586393224523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1.3333282
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b561c7d7ea0a2a24b8721989ad739739
+      internalID: -1511733725910467045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_walk (2)_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1.3333282
+        width: 149.28572
+        height: 220.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7edc8fa8b0a5e74f9c8b7ac687b5bd9
+      internalID: 3759256654105663758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8f4bb1600f57094daf9c3c28a99cf0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

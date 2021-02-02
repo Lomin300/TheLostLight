@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 512f309ca7adaad40bdbaf7d7be28065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5517291113234085202
+    second: Soldes_Attack1 (2)_0
+  - first:
+      213: -5246384904319365558
+    second: Soldes_Attack1 (2)_1
+  - first:
+      213: -5612293756749916484
+    second: Soldes_Attack1 (2)_2
+  - first:
+      213: 5180422453838513352
+    second: Soldes_Attack1 (2)_3
+  - first:
+      213: -4223726798904512402
+    second: Soldes_Attack1 (2)_4
+  - first:
+      213: -1152847847310492999
+    second: Soldes_Attack1 (2)_5
+  - first:
+      213: -7169941717696078030
+    second: Soldes_Attack1 (2)_6
+  - first:
+      213: -1028354092163413511
+    second: Soldes_Attack1 (2)_7
+  - first:
+      213: -8426744478169021886
+    second: Soldes_Attack1 (2)_8
+  - first:
+      213: 941826390365398145
+    second: Soldes_Attack1 (2)_9
+  - first:
+      213: -8215327522250029928
+    second: Soldes_Attack1 (2)_10
+  - first:
+      213: 7947437923147569450
+    second: Soldes_Attack1 (2)_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71efcc2753a27044b352d80210336a2
+      internalID: 5517291113234085202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2c878b852b104991c8684cf500f09
+      internalID: -5246384904319365558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93a6becafc5f044a894189c0cdcd33
+      internalID: -5612293756749916484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 521.3334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c77c6f5711f845a70b45c040dbbb7
+      internalID: 5180422453838513352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9494f621cedc479535ee6b77ac103
+      internalID: -4223726798904512402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea82141210bddc4a8401216450792a3
+      internalID: -1152847847310492999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22d22477875684f91df435fcc6f00c
+      internalID: -7169941717696078030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 261.33334
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7671709f20617440910a9d38d88142c
+      internalID: -1028354092163413511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec56b993b6388f4ea2125a12245ce02
+      internalID: -8426744478169021886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946233afd5f3a0f4b9065de24121d5b4
+      internalID: 941826390365398145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769a2d1a5bec244aafd5ef7440a6f9c
+      internalID: -8215327522250029928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldes_Attack1 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1.3333435
+        width: 237.5
+        height: 260.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3eac4c691f21640882aafb9bbb3e37
+      internalID: 7947437923147569450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 78c838c5b848c2146a8c152007341f57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

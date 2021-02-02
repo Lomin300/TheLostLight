@@ -1,0 +1,55 @@
+
+skeleton-W-a.png
+size: 1058,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-W-a_0
+  rotate: false
+  xy: 2, 2
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_1
+  rotate: false
+  xy: 266, 2
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_2
+  rotate: false
+  xy: 530, 2
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_3
+  rotate: false
+  xy: 794, 2
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_4
+  rotate: false
+  xy: 2, 273
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_5
+  rotate: false
+  xy: 266, 273
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+skeleton-W-a_6
+  rotate: false
+  xy: 530, 273
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1

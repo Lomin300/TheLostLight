@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 3c74226aa2c6e92479e0f3a6fd0041cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3297234286445271570
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_0"
+  - first:
+      213: 6215127592946370643
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_1"
+  - first:
+      213: -1033113288672956522
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_2"
+  - first:
+      213: -5205749697699763707
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_3"
+  - first:
+      213: 7183178413728503433
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_4"
+  - first:
+      213: 2932370705533125227
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_5"
+  - first:
+      213: -8225142930295308837
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_6"
+  - first:
+      213: -4962614402605735787
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_7"
+  - first:
+      213: -8789907954230467609
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_8"
+  - first:
+      213: -1549483264247193907
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_9"
+  - first:
+      213: 7648204447679611792
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_10"
+  - first:
+      213: 4248115794674760405
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_11"
+  - first:
+      213: 3612909266976837588
+    second: "\uBC84\uC11C\uCEE4_\uB300\uAE30_12"
+  - first:
+      213: 191758075017476981
+    second: Img_Berserker_Idle_0
+  - first:
+      213: 1667230883950559165
+    second: Img_Berserker_Idle_1
+  - first:
+      213: -7550457857374515239
+    second: Img_Berserker_Idle_2
+  - first:
+      213: 7990277074534720628
+    second: Img_Berserker_Idle_3
+  - first:
+      213: 1309030111804214330
+    second: Img_Berserker_Idle_4
+  - first:
+      213: -9106380499927399210
+    second: Img_Berserker_Idle_5
+  - first:
+      213: -4796069967463866663
+    second: Img_Berserker_Idle_6
+  - first:
+      213: -4875145076264295158
+    second: Img_Berserker_Idle_7
+  - first:
+      213: 1798472755303940240
+    second: Img_Berserker_Idle_8
+  - first:
+      213: -4127516462858243491
+    second: Img_Berserker_Idle_9
+  - first:
+      213: -5708651593917864011
+    second: Img_Berserker_Idle_10
+  - first:
+      213: 932386918723559348
+    second: Img_Berserker_Idle_11
+  - first:
+      213: 1389388583885191661
+    second: Img_Berserker_Idle_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605739f395e9b8442a0c118716f47730
+      internalID: 191758075017476981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 700.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a966db7907484a8a8477e97119de1
+      internalID: 1667230883950559165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d8b4f8b839f340843fea88720d44a
+      internalID: -7550457857374515239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 700.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993c1648bba0f7b438e3510df1a1e331
+      internalID: 7990277074534720628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf20ec08f24c74ead07f8e44472da7
+      internalID: 1309030111804214330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 467.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be32c2021cfbc46bb36e0699f7e7c0
+      internalID: -9106380499927399210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 467.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0553dc1c38a5241a9b005c07f7d31c
+      internalID: -4796069967463866663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 467.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52f953c6d560d43aa114d2e7dc7958
+      internalID: -4875145076264295158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889e1170eb0ecf4d8629c22037e3480
+      internalID: 1798472755303940240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 234.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43957c73daf784344bbccaf5169e100e
+      internalID: -4127516462858243491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 234.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ae8c072d1d1048ab122811c48aed7
+      internalID: -5708651593917864011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 234.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ce2b9846c92444af0a9acd0a1f487
+      internalID: 932386918723559348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Berserker_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 250.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93737d1ccd1814d87a49c2a2aee9bd
+      internalID: 1389388583885191661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 464e9b52d57530e4097c5e8861eb500e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

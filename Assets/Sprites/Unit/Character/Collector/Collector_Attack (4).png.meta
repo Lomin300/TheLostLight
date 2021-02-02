@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 7913b9dd06cb91f4eb01dd5f82108863
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 243743752211778640
+    second: Collector_Attack (4)_0
+  - first:
+      213: -1230853145029145124
+    second: Collector_Attack (4)_1
+  - first:
+      213: -8762690787557686901
+    second: Collector_Attack (4)_2
+  - first:
+      213: 4824501947589984172
+    second: Collector_Attack (4)_3
+  - first:
+      213: 8285421587060460128
+    second: Collector_Attack (4)_4
+  - first:
+      213: 3915336597832256041
+    second: Collector_Attack (4)_5
+  - first:
+      213: -5728629409486696636
+    second: Collector_Attack (4)_6
+  - first:
+      213: -8410941877612958944
+    second: Collector_Attack (4)_7
+  - first:
+      213: -8687967316237960415
+    second: Collector_Attack (4)_8
+  - first:
+      213: 3708209088537657464
+    second: Collector_Attack (4)_9
+  - first:
+      213: 1302972807808822475
+    second: Collector_Attack (4)_10
+  - first:
+      213: 8609916879617247441
+    second: Collector_Attack (4)_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collector_Attack (4)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525.3334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0e4e8fcf50084c926458d0d501b29
+      internalID: 243743752211778640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 525.3334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb83036f06dfdd47b8e230fc1fd7290
+      internalID: -1230853145029145124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 525.3334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e51307b825784794d1013a956521f
+      internalID: -8762690787557686901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 525.3334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff00e5ccc1dd8514193c43bf4fc605fb
+      internalID: 4824501947589984172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263.33334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8eb7ea6c20464aabe79acd30ead6c
+      internalID: 8285421587060460128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 263.33334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9a1292ba37014297a1a069ffed092
+      internalID: 3915336597832256041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 263.33334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ce6bef3203a749837f72c07682869
+      internalID: -5728629409486696636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 263.33334
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd62a8fdc74ac0489b693855d8947b9
+      internalID: -8410941877612958944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b9e96363d7d449b9e6024359f0bf9
+      internalID: -8687967316237960415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1.3333435
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84de10b6e2c6743ac3b9e94db487bc
+      internalID: 3708209088537657464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1.3333435
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5160f5f684dca449251f397d22d234
+      internalID: 1302972807808822475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_Attack (4)_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1.3333435
+        width: 254.5
+        height: 262.66666
+      alignment: 9
+      pivot: {x: 0.43, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7453244057052c43964902cdf302897
+      internalID: 8609916879617247441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bda4df9ea11b33d4295c0be41a4cb942
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

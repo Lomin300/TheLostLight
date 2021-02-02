@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 05a379b92cf27424abc937455dc3e425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5782754756091497864
+    second: Dryad_att2_0
+  - first:
+      213: -4010074426017113526
+    second: Dryad_att2_1
+  - first:
+      213: -4417095525855431019
+    second: Dryad_att2_2
+  - first:
+      213: -7291242289292602232
+    second: Dryad_att2_3
+  - first:
+      213: -847005628934494773
+    second: Dryad_att2_4
+  - first:
+      213: 5848741749426171162
+    second: Dryad_att2_5
+  - first:
+      213: 3843655531324544410
+    second: Dryad_att2_6
+  - first:
+      213: 8860738792540414376
+    second: Dryad_att2_7
+  - first:
+      213: 8245764758039440043
+    second: Dryad_att2_8
+  - first:
+      213: -8771723537042625251
+    second: Dryad_att2_9
+  - first:
+      213: 7016090436247856104
+    second: Dryad_att2_10
+  - first:
+      213: -8688868023392526745
+    second: Dryad_att2_11
+  - first:
+      213: 6740600251933932559
+    second: Dryad_att2_12
+  - first:
+      213: 394797033086156325
+    second: Dryad_att2_13
+  - first:
+      213: -3902703908527518030
+    second: Dryad_att2_14
+  - first:
+      213: 5175681345144593004
+    second: Dryad_att2_15
+  - first:
+      213: -6307408366711548618
+    second: Dryad_att2_16
+  - first:
+      213: 350575858066272419
+    second: Dryad_att2_17
+  - first:
+      213: 8076307710409871829
+    second: Dryad_att2_18
+  - first:
+      213: 831807289103409189
+    second: Dryad_att2_19
+  - first:
+      213: -3218730849349861058
+    second: Dryad_att2_20
+  - first:
+      213: 5108659586570093739
+    second: Dryad_att2_21
+  - first:
+      213: -134131632534144294
+    second: Dryad_att2_22
+  - first:
+      213: 2381032081600321437
+    second: Dryad_att2_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 155
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dryad_att2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8526e2aa4c6e1d43a541563e16b1aa3
+      internalID: -5782754756091497864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb9589bde015a4ab39689e60e46fe2
+      internalID: -4010074426017113526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494954fb3d4927644b2be6bba0839609
+      internalID: -4417095525855431019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d3823f529f82438039e10046f1068
+      internalID: -7291242289292602232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d7033d81d7c8409b7d7866e2de447
+      internalID: -847005628934494773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 649.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f603004a488e47428fedb6820704f73
+      internalID: 5848741749426171162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e830da374f1ba409e5d79fd3378876
+      internalID: 3843655531324544410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51da448cb896cb46a8cafc8a322306d
+      internalID: 8860738792540414376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0eb97f06a16c4fb087177a8dc0ed4
+      internalID: 8245764758039440043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829778050bd966b429fa90b3e36b3883
+      internalID: -8771723537042625251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7234a6aad599f34188e418d9f0cdf9d
+      internalID: 7016090436247856104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 433.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75994079f813d8d47a19c5633e6ffe14
+      internalID: -8688868023392526745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34abda11c5b6b43bdd2c4128d9c59e
+      internalID: 6740600251933932559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfadfc8a4f804248bb08ad509e8f9f4
+      internalID: 394797033086156325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066be933c38e7c4aabffae698a9c90a
+      internalID: -3902703908527518030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff8f0ed41753b4184fe40a764859ae
+      internalID: 5175681345144593004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b54ff29b09e741b07281edf05a426
+      internalID: -6307408366711548618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 217.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86f6fddd9992742b883179782ed4c5
+      internalID: 350575858066272419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59715a22d0e9e384da460cce3dbb6dc3
+      internalID: 8076307710409871829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d62998dde64c4f92a0a3e4da04792
+      internalID: 831807289103409189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f886021b668891742a117dfb0d7354ad
+      internalID: -3218730849349861058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3d29a4f6cde848a609dc539c8d4cf
+      internalID: 5108659586570093739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdef23a82132784a99433901caa5630
+      internalID: -134131632534144294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_att2_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1.5
+        width: 192.33333
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432af77361c20414e83f97973a21e659
+      internalID: 2381032081600321437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4974fbfb9de74ff4d92ba74f3e9de2e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

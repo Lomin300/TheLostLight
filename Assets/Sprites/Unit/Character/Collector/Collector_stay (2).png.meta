@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 12d957026df182140a980423a2b1e443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1160915874380861088
+    second: Collector_stay (2)_0
+  - first:
+      213: 3886671033010111283
+    second: Collector_stay (2)_1
+  - first:
+      213: 2729899861894635326
+    second: Collector_stay (2)_2
+  - first:
+      213: 782207661645223421
+    second: Collector_stay (2)_3
+  - first:
+      213: 3367598912399977142
+    second: Collector_stay (2)_4
+  - first:
+      213: 6231924133463090388
+    second: Collector_stay (2)_5
+  - first:
+      213: -2952278810240712942
+    second: Collector_stay (2)_6
+  - first:
+      213: 2025863857644943534
+    second: Collector_stay (2)_7
+  - first:
+      213: 6032719780285909130
+    second: Collector_stay (2)_8
+  - first:
+      213: 5855805276122302730
+    second: Collector_stay (2)_9
+  - first:
+      213: -8095107936777295638
+    second: Collector_stay (2)_10
+  - first:
+      213: 2910962419227426502
+    second: Collector_stay (2)_11
+  - first:
+      213: -6923919091062094035
+    second: Collector_stay (2)_12
+  - first:
+      213: -1328526287637022540
+    second: Collector_stay (2)_13
+  - first:
+      213: -9201247287274944218
+    second: Collector_stay (2)_14
+  - first:
+      213: -2911817685453278473
+    second: Collector_stay (2)_15
+  - first:
+      213: -7203994791187936300
+    second: Collector_stay (2)_16
+  - first:
+      213: 1012518106515955019
+    second: Collector_stay (2)_17
+  - first:
+      213: -479355656363980532
+    second: Collector_stay (2)_18
+  - first:
+      213: -1968601826099706869
+    second: Collector_stay (2)_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collector_stay (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b1be71b1e3d0b44b1cff81caf7fe97
+      internalID: 1160915874380861088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 676.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd58656fc1889e43ace40eaae029354
+      internalID: 3886671033010111283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 676.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e8e1a6141947b42bcc46538af54d5a
+      internalID: 2729899861894635326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 676.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c8debf081f7d4e84f4ba99f99dda5
+      internalID: 782207661645223421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 676.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503d2247bb427c4baf23795d02d8fac
+      internalID: 3367598912399977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f63235afc4b24ea8ef096c2eff0f3
+      internalID: 6231924133463090388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 451.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c468b8402285e46876e9d6b6998a19
+      internalID: -2952278810240712942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 451.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c69a226794fe444a61781a68dc8fbc
+      internalID: 2025863857644943534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 451.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2f2f5b7214034cb48a9f35ce04f2c
+      internalID: 6032719780285909130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 451.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505d687ac553c84b94e2c7f6a615bd7
+      internalID: 5855805276122302730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8abab17fb318443b51aa19d1581384
+      internalID: -8095107936777295638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 226.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af3fddc35d30744b61658019104cfe
+      internalID: 2910962419227426502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 226.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fc5dc8eda8e449af8d7e24f2b22ee
+      internalID: -6923919091062094035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 226.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2f1d0ac562fc499fc823cc395b790
+      internalID: -1328526287637022540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 226.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc927cfea2f50f14c84088afe8faa7aa
+      internalID: -9201247287274944218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da60739af0af364f81496950ff5ba67
+      internalID: -2911817685453278473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721f146d546064478e9c555cb4347d5
+      internalID: -7203994791187936300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf9a051e41f38f4baa92b53fbb5b093
+      internalID: 1012518106515955019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ef47ab4ab473741b061c3b1966ac75
+      internalID: -479355656363980532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_stay (2)_19
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1.5
+        width: 222.4
+        height: 225.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c94e07426fb05498ddb8860d95f41c
+      internalID: -1968601826099706869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 778903964f34ccb42bd2f589b269c7dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

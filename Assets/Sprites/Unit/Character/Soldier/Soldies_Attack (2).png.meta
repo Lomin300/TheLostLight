@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 18aeaefdbce642e4fa9e068e60363897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8224022175014612865
+    second: Soldies_Attack (2)_0
+  - first:
+      213: -2531305297480591529
+    second: Soldies_Attack (2)_1
+  - first:
+      213: -1644415549527202034
+    second: Soldies_Attack (2)_2
+  - first:
+      213: 3715204289794721189
+    second: Soldies_Attack (2)_3
+  - first:
+      213: 422791901947522855
+    second: Soldies_Attack (2)_4
+  - first:
+      213: 5241957238874346713
+    second: Soldies_Attack (2)_5
+  - first:
+      213: 4511734825267851720
+    second: Soldies_Attack (2)_6
+  - first:
+      213: 4851333956279428014
+    second: Soldies_Attack (2)_7
+  - first:
+      213: -1017245435988933002
+    second: Soldies_Attack (2)_8
+  - first:
+      213: 4600344484074610108
+    second: Soldies_Attack (2)_9
+  - first:
+      213: -3848040696951694962
+    second: Soldies_Attack (2)_10
+  - first:
+      213: 8130652219054293213
+    second: Soldies_Attack (2)_11
+  - first:
+      213: -3220151634380871186
+    second: Soldies_Attack (2)_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c9ec07527fad40a829297250754d4
+      internalID: -8224022175014612865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb728d3a6f1054a881f1f87e54d98f
+      internalID: -2531305297480591529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8120c531a47d442beae4d83d8ecaa7
+      internalID: -1644415549527202034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 230
+        width: 148
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316fe514b7f09d848a2d742e6186ebe2
+      internalID: 3715204289794721189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fcb6e3cab63054a8856fcbb237a8c2
+      internalID: 422791901947522855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccccc22c4a25d46b4119cfccda4726
+      internalID: 5241957238874346713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 230
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acbc18141834044bed5b022c738dc9
+      internalID: 4511734825267851720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2952102d0c6441a26e8435980c1dd
+      internalID: 4851333956279428014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4663a5a32b9747b56e707c5244855
+      internalID: -1017245435988933002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e2caf4d06d28478ec40113f279a24
+      internalID: 4600344484074610108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee5e363328fa54c9dfda92bb95ff4e
+      internalID: -3848040696951694962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8093f68cfb10458e21c713769e8a6
+      internalID: 8130652219054293213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldies_Attack (2)_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 148.28572
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba82529877d4904c9635bf472a1e1ea
+      internalID: -3220151634380871186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb3b3ef0a490c554e8eca710a1896cd0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 65d81b72b58dd7e41b4ecbcfd0ea3068
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2239037420946523175
+    second: Soldier_White (1)_0
+  - first:
+      213: 502637162270674887
+    second: Soldier_White (1)_1
+  - first:
+      213: 8920558714364359795
+    second: Soldier_White (1)_2
+  - first:
+      213: -7101927206089732691
+    second: Soldier_White (1)_3
+  - first:
+      213: -6707118071461721826
+    second: Soldier_White (1)_4
+  - first:
+      213: 4704784182180464380
+    second: Soldier_White (1)_5
+  - first:
+      213: -4903869430665721244
+    second: Soldier_White (1)_6
+  - first:
+      213: 8574644330386435439
+    second: Soldier_White (1)_7
+  - first:
+      213: -3966488662198492206
+    second: Soldier_White (1)_8
+  - first:
+      213: 4404056322685447253
+    second: Soldier_White (1)_9
+  - first:
+      213: -5764523161314415410
+    second: Soldier_White (1)_10
+  - first:
+      213: -8980646118357905057
+    second: Soldier_White (1)_11
+  - first:
+      213: -3828178180213574690
+    second: Soldier_White (1)_12
+  - first:
+      213: 9093120952989764546
+    second: Soldier_White (1)_13
+  - first:
+      213: 4945189899091472576
+    second: Soldier_White (1)_14
+  - first:
+      213: 5540364985942926261
+    second: Soldier_White (1)_15
+  - first:
+      213: 1948672006035919427
+    second: Soldier_White (1)_16
+  - first:
+      213: 4112253928086181537
+    second: Soldier_White (1)_17
+  - first:
+      213: 3076707469187888776
+    second: Soldier_White (1)_18
+  - first:
+      213: -2540513902165713371
+    second: Soldier_White (1)_19
+  - first:
+      213: 144615505786508806
+    second: Soldier_White (1)_20
+  - first:
+      213: -1237959206864621266
+    second: Soldier_White (1)_21
+  - first:
+      213: 5596438934091670818
+    second: Soldier_White (1)_22
+  - first:
+      213: -1627283626383476223
+    second: Soldier_White (1)_23
+  - first:
+      213: -2481094488815378675
+    second: Soldier_White (1)_24
+  - first:
+      213: -5299388216576198412
+    second: Soldier_White (1)_25
+  - first:
+      213: -6899060435651505150
+    second: Soldier_White (1)_26
+  - first:
+      213: 3838262882043490473
+    second: Soldier_White (1)_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier_White (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f916045f56964dbc5f7ccccc48a7a
+      internalID: 2239037420946523175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b96b22156fd6c4cbee5d94518366e7
+      internalID: 502637162270674887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385629944d5356646a3e66bf2dd1be8f
+      internalID: 8920558714364359795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5aa09435d4b74ba9c71ca9b2a0472
+      internalID: -7101927206089732691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516475236f0f59f44a3317725d960c75
+      internalID: -6707118071461721826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21679d9501af74697ea13477b1ea65
+      internalID: 4704784182180464380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 688.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a426644178856d4bb41b97d757e6e47
+      internalID: -4903869430665721244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b3a3f73f28214c94310d83f741153
+      internalID: 8574644330386435439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b71dc4693d614bb7cb369ce3c7b04
+      internalID: -3966488662198492206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41cd88949459b47ae79251294f8801
+      internalID: 4404056322685447253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32e407f2c141745afc50c1011858bc
+      internalID: -5764523161314415410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a59721bc7dd2743873f20107f70b52
+      internalID: -8980646118357905057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eeca991efea6749b9e36a14b33641a
+      internalID: -3828178180213574690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_13
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 459.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e66f3b3b641a4383a2603f9dc8e73
+      internalID: 9093120952989764546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592e572898b04945b30414d826fc442
+      internalID: 4945189899091472576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fc6d85880c1346bcf03b57f8cb2cb
+      internalID: 5540364985942926261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb55683b471484dbc06622b3e1f174
+      internalID: 1948672006035919427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea5be449a27a9408f0ddf2f87d0f7b
+      internalID: 4112253928086181537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21a992996ce2243ac9cdcd012cd820
+      internalID: 3076707469187888776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fda0b22f7602459ae99ae42bed6e2
+      internalID: -2540513902165713371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 230.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986187c6b237b94da481121fbbabef5
+      internalID: 144615505786508806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18e5bc0cc013c4eac9d7a0ff203f83
+      internalID: -1237959206864621266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e63a78f7252847b5aef1d65bd3887
+      internalID: 5596438934091670818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347215719fff4544b0fc7fbfd061758
+      internalID: -1627283626383476223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b01ec50a809d47832f2c3392bb2c7
+      internalID: -2481094488815378675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfe15120c0eff43b7ac40906649f92
+      internalID: -5299388216576198412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d52de9b57221b41aea2b6ac5a76375
+      internalID: -6899060435651505150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White (1)_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1.5
+        width: 148.28572
+        height: 229.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a7fa759383d040ba360761fc015ea
+      internalID: 3838262882043490473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6f7b718e4d02714884ba4c6ab45a9bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 356c8d6be5ec6604a8f074d9295c7580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4046548143976971995
+    second: Soldier_White_Walk (2)_0
+  - first:
+      213: -1639210665351807837
+    second: Soldier_White_Walk (2)_1
+  - first:
+      213: -8180728460775030670
+    second: Soldier_White_Walk (2)_2
+  - first:
+      213: 283018627984641886
+    second: Soldier_White_Walk (2)_3
+  - first:
+      213: 806497192020438379
+    second: Soldier_White_Walk (2)_4
+  - first:
+      213: 2381034850090412760
+    second: Soldier_White_Walk (2)_5
+  - first:
+      213: 1767620174178087856
+    second: Soldier_White_Walk (2)_6
+  - first:
+      213: -6840913220140498025
+    second: Soldier_White_Walk (2)_7
+  - first:
+      213: 8838732188723633664
+    second: Soldier_White_Walk (2)_8
+  - first:
+      213: -5222918849851697899
+    second: Soldier_White_Walk (2)_9
+  - first:
+      213: -2418086676601013863
+    second: Soldier_White_Walk (2)_10
+  - first:
+      213: -6984782869501474336
+    second: Soldier_White_Walk (2)_11
+  - first:
+      213: -7840891567874835965
+    second: Soldier_White_Walk (2)_12
+  - first:
+      213: 2482098457636967234
+    second: Soldier_White_Walk (2)_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b293ae5fae7f974f9dffcf326d94afa
+      internalID: 4046548143976971995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5148f84a0421042bcfe828b8c1888e
+      internalID: -1639210665351807837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157d77b60c85eb4b9f88e1ffd91cee1
+      internalID: -8180728460775030670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6dcd21c1cc2f41aa57e82b3f4b736
+      internalID: 283018627984641886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56773939dabf6804aa0864466aa11a41
+      internalID: 806497192020438379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b382832876af14d9386412a3d7b476
+      internalID: 2381034850090412760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 229
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b495b6bdd497ab428dcffe532309c34
+      internalID: 1767620174178087856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7c1635ff10794799cb511bb7b71c4
+      internalID: -6840913220140498025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b56136d33e6042a638d675f24f265
+      internalID: 8838732188723633664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6e9b2abb993b48baeb4a0181abf54
+      internalID: -5222918849851697899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe07ae522a94d541ac664962d980884
+      internalID: -2418086676601013863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9120338a0887e3d45b977f6d16aedd55
+      internalID: -6984782869501474336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1d6237e49ee44a8cf8ac047d692e2
+      internalID: -7840891567874835965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_White_Walk (2)_13
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 162.28572
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69e530ff64d5e449ff4f01a9195c84
+      internalID: 2482098457636967234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88e02d94b9633e247960514ba8efbe40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

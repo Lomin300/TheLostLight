@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 36cabf64a1c65a344bbcb6087ee38614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4502415845215748851
+    second: Collector_walk (2)_0
+  - first:
+      213: 1085613013853180436
+    second: Collector_walk (2)_1
+  - first:
+      213: -9149429135371992211
+    second: Collector_walk (2)_2
+  - first:
+      213: -1428484215359511405
+    second: Collector_walk (2)_3
+  - first:
+      213: -2203198212167819831
+    second: Collector_walk (2)_4
+  - first:
+      213: 3009595312034839730
+    second: Collector_walk (2)_5
+  - first:
+      213: 1781396650214899337
+    second: Collector_walk (2)_6
+  - first:
+      213: 432569020122577553
+    second: Collector_walk (2)_7
+  - first:
+      213: -7937332894769341075
+    second: Collector_walk (2)_8
+  - first:
+      213: -2182267672608903030
+    second: Collector_walk (2)_9
+  - first:
+      213: -2773796272627548211
+    second: Collector_walk (2)_10
+  - first:
+      213: 7745772151840803857
+    second: Collector_walk (2)_11
+  - first:
+      213: -6130290539571339749
+    second: Collector_walk (2)_12
+  - first:
+      213: -1105814760964674058
+    second: Collector_walk (2)_13
+  - first:
+      213: 8889350207979892526
+    second: Collector_walk (2)_14
+  - first:
+      213: -3565607164920314977
+    second: Collector_walk (2)_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collector_walk (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad083ffb33adfe24bb1daa44b59bee2f
+      internalID: 4502415845215748851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 700.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b258f70af5f64797d446c2058bdf6
+      internalID: 1085613013853180436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 700.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a08d6f83a8ba4d9a167f8e34e9395
+      internalID: -9149429135371992211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 700.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b98bd886851d4d9ba6a0bef2f8520
+      internalID: -1428484215359511405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce33b8968ed4246a4f6f3c53c4bd01
+      internalID: -2203198212167819831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 467.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9b4d4b9bccdc47adce5fbfe381f0b
+      internalID: 3009595312034839730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 467.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a337589b15975541b2858dfa9c5714c
+      internalID: 1781396650214899337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 467.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c7b49d0b5c3543b4ba60702c65410
+      internalID: 432569020122577553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047dc839389ea64d86dd3e886dcd587
+      internalID: -7937332894769341075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 234.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff14037bf69f864c8a02c1c6179a3a6
+      internalID: -2182267672608903030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 234.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70d679cc12d274d8ddfdf8f0235668
+      internalID: -2773796272627548211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 234.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a00b9b21b8f3943b68693f1cece887
+      internalID: 7745772151840803857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0ce0d5a796ab48a25db8d5f51e311
+      internalID: -6130290539571339749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a28af8be89fc1f48927bd5c1fd3f93e
+      internalID: -1105814760964674058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affd535b0388734b8fdc394b8785415
+      internalID: 8889350207979892526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collector_walk (2)_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1.5
+        width: 235.5
+        height: 233.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6be9ddd426c534b9ddc09b6c675456
+      internalID: -3565607164920314977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a9d541bc0494df41a9f5b39190b3c57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

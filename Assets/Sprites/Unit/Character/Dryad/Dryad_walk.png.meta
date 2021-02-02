@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: b46048e2305aa744fae96568094579ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -600315578534433941
+    second: Dryad_walk_0
+  - first:
+      213: 9214644229697268522
+    second: Dryad_walk_1
+  - first:
+      213: 8993687657238933148
+    second: Dryad_walk_2
+  - first:
+      213: -5449960296784978640
+    second: Dryad_walk_3
+  - first:
+      213: -932694322815349892
+    second: Dryad_walk_4
+  - first:
+      213: 3024464744956807137
+    second: Dryad_walk_5
+  - first:
+      213: 3856114621145536291
+    second: Dryad_walk_6
+  - first:
+      213: -2369945248125241289
+    second: Dryad_walk_7
+  - first:
+      213: -5217586215534859756
+    second: Dryad_walk_8
+  - first:
+      213: 3807329376327295621
+    second: Dryad_walk_9
+  - first:
+      213: -5969229152729943045
+    second: Dryad_walk_10
+  - first:
+      213: 8715302024761579185
+    second: Dryad_walk_11
+  - first:
+      213: 432618142850373210
+    second: Dryad_walk_12
+  - first:
+      213: 4468568912015425848
+    second: Dryad_walk_13
+  - first:
+      213: 3361400761907688185
+    second: Dryad_walk_14
+  - first:
+      213: -8476519921455725280
+    second: Dryad_walk_15
+  - first:
+      213: 6646061904578725359
+    second: Dryad_walk_16
+  - first:
+      213: -4691498705181961032
+    second: Dryad_walk_17
+  - first:
+      213: -6727844204735152637
+    second: Dryad_walk_18
+  - first:
+      213: -3077803070336314500
+    second: Dryad_walk_19
+  - first:
+      213: -2100730154710452170
+    second: Dryad_walk_20
+  - first:
+      213: 4022043592563805531
+    second: Dryad_walk_21
+  - first:
+      213: -2621567977997063028
+    second: Dryad_walk_22
+  - first:
+      213: 8793065262048665077
+    second: Dryad_walk_23
+  - first:
+      213: 3351687673149083157
+    second: Dryad_walk_24
+  - first:
+      213: -4391530761300370645
+    second: Dryad_walk_25
+  - first:
+      213: -2333976669212926559
+    second: Dryad_walk_26
+  - first:
+      213: -2717132385315206192
+    second: Dryad_walk_27
+  - first:
+      213: 5091420898366552991
+    second: Dryad_walk_28
+  - first:
+      213: -1532995004937403862
+    second: Dryad_walk_29
+  - first:
+      213: 3330798349706631251
+    second: Dryad_walk_30
+  - first:
+      213: 1774628469169619050
+    second: Dryad_walk_31
+  - first:
+      213: 2186379723020715683
+    second: Dryad_walk_32
+  - first:
+      213: 2656290754729599447
+    second: Dryad_walk_33
+  - first:
+      213: 5690953571421323281
+    second: Dryad_walk_34
+  - first:
+      213: -8326920034115983860
+    second: Dryad_walk_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 155
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dryad_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43637db3b7437b54595fc8c2cc86b987
+      internalID: -600315578534433941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0fb0a86ccccb4eaf007abb1c17a50
+      internalID: 9214644229697268522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606aea2840d53c544a2c7ac892cbb521
+      internalID: 8993687657238933148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf9908183bb6f4ebff4f0a778871c3
+      internalID: -5449960296784978640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e5972b18ae4f42844338a740328ed
+      internalID: -932694322815349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3054d64c2454c747bfd450a47ac1c42
+      internalID: 3024464744956807137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331fa0112c3f7c444a6d6576ee6c8286
+      internalID: 3856114621145536291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615f57a994852a438f280d79783c11c
+      internalID: -2369945248125241289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 649.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f52134327ed241b7227a4712c08ea
+      internalID: -5217586215534859756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00598262aa1134b878ca300dcf9466
+      internalID: 3807329376327295621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc7e4941ca28d41a4f2cba07894590
+      internalID: -5969229152729943045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc389658fcaaf8448c68da48f146625
+      internalID: 8715302024761579185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e2386c66351e44a77a7e98ae943c3
+      internalID: 432618142850373210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c878e10ce0ae1438514edcae522f32
+      internalID: 4468568912015425848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7803eaaa17b34691966d2db52044e
+      internalID: 3361400761907688185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb6b364fe8c01409407bc9d2d9b69b
+      internalID: -8476519921455725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_16
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca142b54020e74d8b67c761bd80cd6
+      internalID: 6646061904578725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 433.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508e8189f67b304499c1cb4fd0eae25
+      internalID: -4691498705181961032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1d1ae0b24b0a4facfe4f9e517b4cb
+      internalID: -6727844204735152637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1be16eda6e4b4459ff77de3b9922ba
+      internalID: -3077803070336314500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25440ac60657526449b1fe7aaaf25516
+      internalID: -2100730154710452170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a2b41413f4f94fb50bd7d3f9f8350
+      internalID: 4022043592563805531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9213832bb61534f9458be9e90eafc2
+      internalID: -2621567977997063028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a25e6abc9d74e44803c578b0ff7de5
+      internalID: 8793065262048665077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_24
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfe67a71ae37c49b7cee9995218336
+      internalID: 3351687673149083157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c51fd1fa6be84c91bbb732283f829
+      internalID: -4391530761300370645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 217.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8906a9f64fb6f45831cbca02aa5804
+      internalID: -2333976669212926559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba429186678b3e947863603f9bdc1e1c
+      internalID: -2717132385315206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d128dbe62100a147a062aa3ddea9459
+      internalID: 5091420898366552991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff87f8f86fe16e4f8b2c600fecead3f
+      internalID: -1532995004937403862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e0af22962b9e43b6a63d5cabdcc51
+      internalID: 3330798349706631251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af87d00c128f2408b47dce1b448200
+      internalID: 1774628469169619050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe374426d69cdc498a73d463752a740
+      internalID: 2186379723020715683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0f8e0c4a24a548ae4c4318019ce23
+      internalID: 2656290754729599447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff6bf706a0a46439748a9ec5a8e59c
+      internalID: 5690953571421323281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dryad_walk_35
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1.5
+        width: 123.22222
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc10d51ac40dd4bb44cb6a7070152e
+      internalID: -8326920034115983860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 49460f56d325da94b81769bbeedf64ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

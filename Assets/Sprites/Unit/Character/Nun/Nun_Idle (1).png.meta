@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 2ee2492ebdddb2b4498404f9c2eb1cb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5351972526939609108
+    second: Nun_Idle (1)_0
+  - first:
+      213: 8265634572059331769
+    second: Nun_Idle (1)_1
+  - first:
+      213: 9006452240211242994
+    second: Nun_Idle (1)_2
+  - first:
+      213: -8144770605980274157
+    second: Nun_Idle (1)_3
+  - first:
+      213: -1736963729307176881
+    second: Nun_Idle (1)_4
+  - first:
+      213: -1371430560481727800
+    second: Nun_Idle (1)_5
+  - first:
+      213: -6904757248731611662
+    second: Nun_Idle (1)_6
+  - first:
+      213: -7249626562087945925
+    second: Nun_Idle (1)_7
+  - first:
+      213: 1149144405412794425
+    second: Nun_Idle (1)_8
+  - first:
+      213: 3048388440407034643
+    second: Nun_Idle (1)_9
+  - first:
+      213: 6525788146688944358
+    second: Nun_Idle (1)_10
+  - first:
+      213: 8837177839762293308
+    second: Nun_Idle (1)_11
+  - first:
+      213: -2126776437665744477
+    second: Nun_Idle (1)_12
+  - first:
+      213: -4537731184410534567
+    second: Nun_Idle (1)_13
+  - first:
+      213: 1510586944160386896
+    second: Nun_Idle (1)_14
+  - first:
+      213: -7689044463574872855
+    second: Nun_Idle (1)_15
+  - first:
+      213: -2110392353666201863
+    second: Nun_Idle (1)_16
+  - first:
+      213: 4546041700308347335
+    second: Nun_Idle (1)_17
+  - first:
+      213: 772462279451879560
+    second: Nun_Idle (1)_18
+  - first:
+      213: 4761911165438376189
+    second: Nun_Idle (1)_19
+  - first:
+      213: -5435907047084972397
+    second: Nun_Idle (1)_20
+  - first:
+      213: 6963878871770286469
+    second: Nun_Idle (1)_21
+  - first:
+      213: -9034467643117020827
+    second: Nun_Idle (1)_22
+  - first:
+      213: 1019995239298140933
+    second: Nun_Idle (1)_23
+  - first:
+      213: -2145712769168986878
+    second: Nun_Idle (1)_24
+  - first:
+      213: -6904566489486580970
+    second: Nun_Idle (1)_25
+  - first:
+      213: -7621042840115724849
+    second: Nun_Idle (1)_26
+  - first:
+      213: 6159481998359326147
+    second: Nun_Idle (1)_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nun_Idle (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685daf3f27e29543b1df4885fa102b0
+      internalID: 5351972526939609108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711a07c6df59f54da09d9eec87b8c56
+      internalID: 8265634572059331769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab8595e2ac39349b1e433f340d7d0b
+      internalID: 9006452240211242994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1cb6ae888c0624594df90263e371b8
+      internalID: -8144770605980274157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed49c3b3d423d34ebf38af0e5c4d7f6
+      internalID: -1736963729307176881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dada709e786a954d8877aa5a4b6f4e3
+      internalID: -1371430560481727800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 658.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a53c0393155a429ab4578de161d1e
+      internalID: -6904757248731611662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9bdd8d2847504b90d943eeabfb63c
+      internalID: -7249626562087945925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de51cb1f47c944788cde81f524ddbd
+      internalID: 1149144405412794425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f421ea470d8a047be6767e5444c072
+      internalID: 3048388440407034643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd88184ccaf23c4d808609cf2a19a96
+      internalID: 6525788146688944358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af781316bdd204f80c2de3bcd2aadd
+      internalID: 8837177839762293308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a9408dd36ffd469dc1714c3345bdd
+      internalID: -2126776437665744477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_13
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 439.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1a6116971dba46bc5270d9780124b
+      internalID: -4537731184410534567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01598363f162ca94a879f6709d12f92e
+      internalID: 1510586944160386896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f8bca594d2104695250255bade60a
+      internalID: -7689044463574872855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c08591b9253741a7ca3595867f03e
+      internalID: -2110392353666201863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b4734ec1d1cd4fb4fe3fbf93d538b
+      internalID: 4546041700308347335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40c7e3340a1ed46b61fb9fd9ba0af2
+      internalID: 772462279451879560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43317352b3506904185b408876107a95
+      internalID: 4761911165438376189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 220.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14f09a69bdc5547ac001d6c78e32c3
+      internalID: -5435907047084972397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854348638f8437645b588d8717b78c50
+      internalID: 6963878871770286469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a43d68e5a3b1e241a9c444a7f381eb4
+      internalID: -9034467643117020827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db477718d11bc3347a9f24f49754b60c
+      internalID: 1019995239298140933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e6f0981db1984d94c6d449dea9be7
+      internalID: -2145712769168986878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4e2c945b7e8842bef37246ab437e6
+      internalID: -6904566489486580970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdb0d63ed0e874fa802a24c4672934
+      internalID: -7621042840115724849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nun_Idle (1)_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1.5
+        width: 148.28572
+        height: 219.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3791a1b6985e341837de26f279d705
+      internalID: 6159481998359326147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9d2748445390214b85df0c35c324242
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
